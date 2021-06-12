@@ -1,6 +1,6 @@
 Today's Menu from HISNet
 =========================
-######OSS21-1 Final Project
+###### OSS21-1 Final Project
 
 ### What does this project do?
 ##### + This python code extracts today's menu from the HISNet website, prints it out on the screen, and also saves it as a text file in the same directory.
@@ -24,6 +24,6 @@ Today's Menu from HISNet
 is needed to switch from the larger frame of HTML to the HTML frame where the menu text resides in. 
 
 ### For further help, contact: 
-    ##21700303@handong.edu
+    21700303@handong.edu
 ### Instruction Video:
   
