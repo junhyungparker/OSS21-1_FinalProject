@@ -20,7 +20,9 @@ OSS21-1 Final Project
             - dpkg -L chromium-chromedriver
     
 ### Information: 
-##### + BeautifulSoup does not work because the HISNet website is coded with HTML along with JavaScript, so a heavier program is needed - Selenium. Moreover, the menu text is within another HTML other than the main HTML, so the code "search = driver.find_element_by_xpath("/html/frameset/frame[1]")" is needed to switch from the larger frame of HTML to the HTML frame where the menu text resides in. 
+##### + BeautifulSoup does not work because the HISNet website is coded with HTML along with JavaScript, so a heavier program is needed - Selenium. Moreover, the menu text is within another HTML other than the main HTML, so the code:
+    search = driver.find_element_by_xpath("/html/frameset/frame[1]")"
+is needed to switch from the larger frame of HTML to the HTML frame where the menu text resides in. 
 
 ### For further help, contact: 
     ##21700303@handong.edu
