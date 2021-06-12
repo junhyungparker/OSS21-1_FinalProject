@@ -24,6 +24,6 @@ Today's Menu from HISNet
 is needed to switch from the larger frame of HTML to the HTML frame where the menu text resides in. 
 
 ### For further help, contact: 
-    <21700303@handong.edu>
+   21700303@handong.edu>
 ### Link to the Instruction Video:
-    <https://youtu.be/cFOYpexyJe4>
+   https://youtu.be/cFOYpexyJe4>
