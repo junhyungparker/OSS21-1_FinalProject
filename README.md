@@ -11,17 +11,17 @@ OSS21-1 Final Project
 ### How do I get started?
 ##### + To get started, you need to install some packages with the following commands:
     1. Python
-        - sudo apt-get update
         - sudo apt-get install python3
     2. Selenium
         - sudo pip3 install selenium
     3. Chrome Driver
         - sudo apt-get install chromium-chromedriver
-        - To check the path for the chrom driver:
+        - To check the path for the chrome driver:
             - dpkg -L chromium-chromedriver
     
-### My Contribution: 
-    + 
+### Information: 
+##### + BeautifulSoup does not work because the HISNet website is coded with HTML along with JavaScript, so a heavier program is needed - Selenium. Moreover, the menu text is within another HTML other than the main HTML, so the code "search = driver.find_element_by_xpath("/html/frameset/frame[1]")" is needed to switch from the larger frame of HTML to the HTML frame where the menu text resides in. 
+
 ### For further help, contact: 
     ##21700303@handong.edu
 ### Instruction Video:
