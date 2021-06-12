@@ -1,6 +1,6 @@
 Today's Menu from HISNet
 =========================
-OSS21-1 FinalProject
+OSS21-1 Final Project
 ---------------------
 
 ### What does this project do?
@@ -11,7 +11,7 @@ OSS21-1 FinalProject
   
 ### My Contribution: 
   
-### For further help, contanct: 
-  #### 21700303@handong.ed
+### For further help, contact: 
+    #### 21700303@handong.edu
 ### Instruction Video:
   
